@@ -3,7 +3,7 @@ import io.papermc.paperweight.util.Git
 plugins {
     java
     id("com.github.johnrengelman.shadow") version "7.0.0" apply false
-    id("com.github.PatinaMC.patcher") version "465004f"
+    id("com.github.PatinaMC.patcher") version "4c928b2"
 }
 
 repositories {
